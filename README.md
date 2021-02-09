@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - In my all pub and sec repos, I have<br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Nicolas-Li&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)](https://github.com/Nicolas-Li/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=Nicolas-Li&count_private=true&hide=contribs&show_icons=true&theme=tokyonight)](https://github.com/Nicolas-Li/github-readme-stats)
 - In my all pub repos, I use<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Li&count_private=true&langs_count=8&exclude_repo=MyRustlings&hide=html&theme=tokyonight)](https://github.com/Nicolas-Li/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Li&langs_count=8&hide=PureBasic,Shell,PowerShell&theme=tokyonight)](https://github.com/Nicolas-Li/github-readme-stats)
