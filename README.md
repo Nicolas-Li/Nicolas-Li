@@ -1,4 +1,4 @@
-### Hi there 👋
+### Happy Chinese New Year !
 
 <!--
 **Nicolas-Li/Nicolas-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats-eu9i4o17y.vercel.app/api?username=anuraghazra)](https://github.com/Nicolas-Li/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?username=Nicolas-Li&count_private=true&hide=prs,contribs&show_icons=true&theme=tokyonight)](https://github.com/Nicolas-Li/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Li&count_private=true&langs_count=10&theme=tokyonight)](https://github.com/Nicolas-Li/github-readme-stats)
